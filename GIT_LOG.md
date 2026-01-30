@@ -13,7 +13,19 @@ d0dd1f6 Pointing to the guide for forking
 bb4cc8d Create styles.css and updated README
 a30c19e Created index page for future collaborative edits
 -------------------------------------------------------------------------
-reparto de tareas:
+REPARTO DE TAREAS:
 Mauro: creacion de su rama propia, creacion repositorio e invitacion, commits, edicion de archivos, merge de las ramas
 Pedro: creacion de su rama propia, creacion de archivo LOG, commits, edicion de archivos, merge de las ramas
 Jorge: creacion de su rama propia, commits, edicion de archivos, merge de las ramas
+-------------------------------------------------------------------------
+FALLOS EN LA ACTIVIDAD
+no se han encontrados errores en la realizacion de la actividad
+-------------------------------------------------------------------------
+COMANDOS MAS RELEVANTES USADOS
+git clone: para clonar el repositorio
+git commit: para poder subir los cambios y las ediciones
+git push: para enviar los cambios
+git add para añadir los archivos de los cuales se van a realizar los commits
+git merge: para poder fusionar las ramas
+git log: para poder crear el archivo log
+git pull
