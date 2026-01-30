@@ -12,3 +12,8 @@ bf08fbe Modificada la descripción en la línea 5 del README
 d0dd1f6 Pointing to the guide for forking
 bb4cc8d Create styles.css and updated README
 a30c19e Created index page for future collaborative edits
+-------------------------------------------------------------------------
+reparto de tareas:
+Mauro: creacion de su rama propia, creacion repositorio e invitacion, commits, edicion de archivos, merge de las ramas
+Pedro: creacion de su rama propia, creacion de archivo LOG, commits, edicion de archivos, merge de las ramas
+Jorge: creacion de su rama propia, commits, edicion de archivos, merge de las ramas
